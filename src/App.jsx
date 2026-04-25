@@ -455,7 +455,7 @@ export default function App() {
             <span className="brand-name">PlumbAds by EAX Media</span>
             <span className="brand-sub">v1.0</span>
           </div>
-          <div className="powered">Powered by Claude AI</div>
+          <div className="powered">Powered by EAX Media</div>
         </div>
         <div className="wrap">
           <div className="left">
